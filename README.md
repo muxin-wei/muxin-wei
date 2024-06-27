@@ -1,6 +1,6 @@
 ### Hi there, I'm [Muxin Wei](https://muxin-wei.github.io) 👋
 
-I am a graduate student in Biomedical Engineering from **Harbin Institute of Technolgy**, China. 
+I am a graduate student in Biomedical Engineering from **Harbin Institute of Technology**, China. 
 
 **My Research Interest**:
 - Computer Vision
@@ -9,8 +9,8 @@ I am a graduate student in Biomedical Engineering from **Harbin Institute of Tec
 
  **I am open to**:
 - collaboration work,
-- multi-modal projects(development or research),
-- research internships 
+- computer vision projects(development or research),
+- research internships
 
 
 ## Skills:
